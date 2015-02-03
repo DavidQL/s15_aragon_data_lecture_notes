@@ -61,3 +61,21 @@ Student presentation on Github:
 
 Tried to do the API RESTful challenge in class, but the app was not working.
 Instead, profesor Anderson went over how JavaScript modules work, and how they work with Node. Demo of how this fits in with Express.js. (Express.js is a Node Module)
+
+## Lecture 5
+
+Intro to Node
+
+Callback hell
+  - solution: named functions
+  - solution: promises
+
+## Lecture 6
+
+Express.js
+
+- Express is a web application framework written in Node
+- minimal framework meant to be extended (with middleware)
+
+Demo and tutorial of an Express.js app, with the `momen` framework.
+
