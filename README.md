@@ -77,5 +77,28 @@ Express.js
 - Express is a web application framework written in Node
 - minimal framework meant to be extended (with middleware)
 
-Demo and tutorial of an Express.js app, with the `momen` framework.
+Demo and tutorial of an Express.js app, with the `moment` framework.
+
+## Lecture 7
+
+Angular.js
+
+  - data bindings bind model data to HTML elements
+  - controllers are responsible for sub-sections of the app (while that data is being displayed)
+  - services remain in place for the whole app lifecycle
+  - directives create reusable components by combining controllers, data, and HTML
+
+Connect your app to the page with:
+
+```
+<html ng-app="contactsApp">
+  ...
+</html>
+```
+
+## Lecture 8
+
+Angular.js demo in class by Professor Anderson
+
+
 
