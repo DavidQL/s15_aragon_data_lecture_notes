@@ -101,4 +101,30 @@ Connect your app to the page with:
 Angular.js demo in class by Professor Anderson
 
 
+## Lecture 12
+
+When your DB becomes too overworked, you have to *SHARD* the database.
+
+* this mean multiple copies of the database
+* data is partitioned across the DBs
+
+NoSQL databases are aware of their replicated nature and manage sharding for you.
+
+### Graph Stores
+
+* stores graph structures instead of tables/rows
+* no schema
+
+## Lecture 13
+
+### CouchDB
+  
+* stores documents
+* no schema is enforced, each document can have different attributes
+* CAP theorem of distributed data stores, pick any TWO:
+  * Consistency, Availability, Partition tolerance
+* exposes a REST API for talkign with the DB directly
+
+
+
 
