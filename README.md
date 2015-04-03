@@ -125,6 +125,34 @@ NoSQL databases are aware of their replicated nature and manage sharding for you
   * Consistency, Availability, Partition tolerance
 * exposes a REST API for talkign with the DB directly
 
+## Lecture 14-17
+In-class web technology demos. 
 
+## Lecture 18
 
+### Solr
 
+* Lucene is a text search engine.
+
+### Redis
+
+* key/value store
+
+## Lecture 19
+
+### Neo4J
+
+* NoSQL graph database
+* relationship focused
+* Java-based
+
+### HBase
+
+* Hadoop database
+* built on top of HDFS
+
+## Lecture 20
+
+### Riak
+
+* 
